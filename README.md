@@ -99,7 +99,7 @@ Archived copy here of whole publication dir incl. zip here: https://drive.google
 ## Setting up a working copy
 
 ```sh
-git clone https://github.com/daniel-thomson/publication.git
+git clone https://github.com/HL7NZ/nz-base-publication-config.git publication
 cd publication
 git clone https://github.com/HL7NZ/nzbase.git                 sources/nzbase
 git clone https://github.com/HL7/fhir-web-templates.git       fhir-web-templates
